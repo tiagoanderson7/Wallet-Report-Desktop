@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{884BAC0B-A9DF-4C44-ADBE-689670D3B041}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication3</RootNamespace>
+    <AssemblyName>WindowsFormsApplication3</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.21.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DB\AllDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DB\AllDB.Designer.cs">
+      <DependentUpon>AllDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DB\AllTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DB\AllTables.Designer.cs">
+      <DependentUpon>AllTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DB\AlterarTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DB\AlterarTable.Designer.cs">
+      <DependentUpon>AlterarTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DB\CadastrarDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DB\CadastrarDB.Designer.cs">
+      <DependentUpon>CadastrarDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DB\CadastrarTables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DB\CadastrarTables.Designer.cs">
+      <DependentUpon>CadastrarTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Moeda\AtualizarMoeda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Moeda\AtualizarMoeda.Designer.cs">
+      <DependentUpon>AtualizarMoeda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Moeda\Moedas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Moeda\Moedas.Designer.cs">
+      <DependentUpon>Moedas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\CadastrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\CadastrarUsuario.Designer.cs">
+      <DependentUpon>CadastrarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\Alterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\Alterar.Designer.cs">
+      <DependentUpon>Alterar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\ConsultarCPF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\ConsultarCPF.Designer.cs">
+      <DependentUpon>ConsultarCPF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\MostrarFuncionários.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\MostrarFuncionários.Designer.cs">
+      <DependentUpon>MostrarFuncionários.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\MostrarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\MostrarClientes.Designer.cs">
+      <DependentUpon>MostrarClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DB\AllDB.resx">
+      <DependentUpon>AllDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DB\AllTables.resx">
+      <DependentUpon>AllTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DB\AlterarTable.resx">
+      <DependentUpon>AlterarTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DB\CadastrarDB.resx">
+      <DependentUpon>CadastrarDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DB\CadastrarTables.resx">
+      <DependentUpon>CadastrarTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Moeda\AtualizarMoeda.resx">
+      <DependentUpon>AtualizarMoeda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Moeda\Moedas.resx">
+      <DependentUpon>Moedas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\CadastrarUsuario.resx">
+      <DependentUpon>CadastrarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\Alterar.resx">
+      <DependentUpon>Alterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\ConsultarCPF.resx">
+      <DependentUpon>ConsultarCPF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\MostrarFuncionários.resx">
+      <DependentUpon>MostrarFuncionários.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\MostrarClientes.resx">
+      <DependentUpon>MostrarClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

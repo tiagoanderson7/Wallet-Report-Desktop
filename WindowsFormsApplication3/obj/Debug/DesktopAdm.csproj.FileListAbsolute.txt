@@ -1,0 +1,418 @@
+c:\users\tonhão\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\tonhão\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\tonhão\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\tonhão\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojResolveAssemblyReference.cache
+c:\users\tonhão\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\tonhão\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+c:\users\tonhão\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+c:\users\tonhão\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.Cache
+c:\users\tonhão\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\tonhão\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tonhão\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TBMoedas.resources
+C:\Users\Tonhão\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TBUsuarios.resources
+C:\Users\Tonhão\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tonhão\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Moedas.resources
+C:\Users\Tonhão\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarFuncionarios.resources
+C:\Users\Tonhão\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tonhão\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contafuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TBMoedas.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TBUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Moedas.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Contafuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V0\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Moedas.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AllDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\WindowsFormsApplication3 - V1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AllDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Moedas.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AllDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Moedas.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AllDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Moedas.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V4\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AllDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Moedas.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V5\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AllDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmMOEDA.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V6\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AllDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmMOEDA.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V7\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmMOEDA.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V8\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmMOEDA.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V9\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmCadDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmMOEDA.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V10\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.AllTables.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmCadDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmMOEDA.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V11\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.AllTables.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmCadDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.CadastrarTables.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmMOEDA.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V12\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.AllTables.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.AlterarTable.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmCadDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.CadastrarTables.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmMOEDA.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V13\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.AllTables.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.AlterarTable.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmCadDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.CadastrarTables.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmMOEDA.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V14\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\DesktopAdm.csprojAssemblyReference.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.AllTables.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.AlterarTable.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmCadDB.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DB.CadastrarTables.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarMoeda.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmMOEDA.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.CadastrarUsuarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.Alterar.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Usuarios.ConsultarCPF.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaFuncionarios.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ContaClientes.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.GenerateResource.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\DesktopAdm.csproj.CopyComplete
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tiago Anderson\Documents\GitHub\Wallet-Report-DESK ADMIN - V15\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
